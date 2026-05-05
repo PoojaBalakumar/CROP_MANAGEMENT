@@ -48,6 +48,8 @@ Technologies Used
 
  # Project Structure
  project/
+
 ├── A00029779_Pooja-CROP MANAGEMENT.ipynb   ← Main notebook
+
 ├── CROP_datasset.zip                                       
 
