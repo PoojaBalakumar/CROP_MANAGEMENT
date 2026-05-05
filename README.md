@@ -1,6 +1,9 @@
 # A Deep Reinforcement Learning Framework for Multi-Year Sustainable Crop Planning under Uncertainty
+
 MSc Data Science - University of Roehampton
+
 Student: Pooja Balakumar
+
 Student ID: A00029779
 
 Project Overview
@@ -43,7 +46,7 @@ Technologies Used
 
 ---
 
- Project Structure
+ # Project Structure
  project/
 ├── A00029779_Pooja-CROP MANAGEMENT.ipynb   ← Main notebook
 ├── CROP_datasset.zip                                       
