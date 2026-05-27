@@ -51,5 +51,3 @@ Technologies Used
 
 ├── A00029779_Pooja-CROP MANAGEMENT.ipynb   ← Main notebook
 
-├── CROP_datasset.zip                                       
-
